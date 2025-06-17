@@ -1,0 +1,39 @@
+
+.head {display: block;
+color:antiquewhite;
+background-color:rgba(95, 83, 83, 0.658);
+padding: 25px;
+margin: 20px;
+text-align: center;
+border:4px solid black;
+
+}
+
+.head-special {display:block;
+background-color:rgb(206, 97, 130);
+text-align: center;
+padding: 25px;
+margin: 20px;
+
+
+}
+
+
+.links {display: inline-block;
+    font-family: "Brush script MT","Dancing Script", cursive;
+    padding:20px ;
+    border: 2px solid rgb(138, 37, 37);
+    margin: 20px;
+    background-color:aquamarine;
+    
+    }
+.link-home {display: block;
+}
+
+
+.text-wrapper {
+    margin-left: 10%;
+    max-width:800px;
+    display: inline-block;
+    padding:20px;
+}
